@@ -1,67 +1,59 @@
-<h1 align="center">Raj Kumar Gupta</h1>
-<h3 align="center">B.Tech CSE (AI & ML) • Learning in Public</h3>
+<h1 align="center">Hi 👋, I'm Raj Kumar Gupta</h1>
+<h3 align="center">B.Tech CSE (AI & ML) Student | Programmer | Learning DSA & ML</h3>
+
+<p align="center">
+🌱 I’m currently practicing <b>C, C++, Python</b>  
+💻 Learning <b>Data Structures, Algorithms & Machine Learning</b>  
+🚀 Building my foundation as a future AI/ML Engineer  
+</p>
 
 ---
 
-### 🧩 The Story (So Far)
-
-I’m not the “10x engineer”  
-or the “coding prodigy”  
-or the kid who learned Python at 8.
-
-I’m just someone who started late,  
-but decided not to stop.
-
-I break things.  
-I fix things.  
-I learn things.  
-Every day, a little more.
-
-Right now my weapons are  
-**C, C++, Python, Git, and Logic.**  
-Tomorrow’s weapons will be different.  
-But the goal stays the same —  
-**get better than yesterday.**
+## 🚀 About Me  
+I’m a passionate learner exploring the fundamentals of programming and computer science.  
+I enjoy solving logical problems, breaking code until it finally makes sense, and learning new technologies one step at a time.  
+Right now I'm refining my basics — C, Python, Git, GitHub — and building a strong foundation for future ML projects.
 
 ---
 
-### 🛠 Tools I’m Learning to Master
-<p>
+## 🧰 Languages and Tools
+
+<p align="left"> 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 🗂 What You’ll Find Here
-
-Not polished projects.  
-Not “perfect” code.  
-Not copy–paste solutions.
-
-You’ll find **practice**,  
-you’ll find **breakthroughs**,  
-you’ll find **first attempts** and **second chances**  
-and the slow construction of a programmer.
-
-This is my archive —  
-the raw version of becoming better.
+## 📫 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-kumar-gupta-a705aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.instagram.com/just.raj6198?igsh=MWlna2lpZ3V3MmJlbA==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</p>
 
 ---
 
-### 🔗 Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/raj-kumar-gupta-a705aa325  
-- **Instagram:** https://www.instagram.com/just.raj6198  
+## ✨ A Line That Defines Me  
+> **"I don’t chase perfection. I chase progress — the version of me that is better than yesterday."**
 
 ---
 
-### ⚡ A Line That Defines Me
-
-> *“I don’t learn fast. I learn deeply.”*
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-### 🐾 Currently:
-- Strengthening basics  
-- Solving small problems  
-- Writing code that teaches me something  
+## 🛠️ What I’m Working On  
+- Improving my C, C++ and Python basics  
+- Pushing daily practice code to GitHub  
+- Learning Git & GitHub properly  
+- Starting small beginner-friendly projects  
+
+---
+
+## 🎯 Fun Fact  
+I learn faster when I break my code first 😄
+
+---
