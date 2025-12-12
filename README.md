@@ -39,13 +39,14 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="360"/>
 
-<img src="https://streak-stats.demolab.com?user=MR-ROGUE01&hide_border=true&theme=transparent" width="360"/>
+<img src="https://streak-stats.demolab.com?user=MR-ROGUE01&hide_border=true&theme=tokyonight" width="360"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&hide_border=true&theme=transparent" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&hide_border=true&theme=tokyonight" width="300"/>
 
 </div>
+
 
 
 
