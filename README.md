@@ -38,17 +38,20 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- Total GitHub stats (contributions, commits, stars, etc.) -->
-<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
-
-<!-- Streak / contributions ring -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ROGUE01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300"/>
-
-<!-- Top languages (language bar) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="420"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🛠 Currently Building
+
+* A solid foundation in C & C++ programming
+*
 ---
 
 ## 🛠 What I’m Working On  
