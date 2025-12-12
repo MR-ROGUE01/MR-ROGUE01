@@ -35,21 +35,10 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 📊 Stats
-
-<!-- Section 1: Overall GitHub Activity -->
+## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&hide_border=true&theme=tokyonight" width="420"/>
-</p>
-
-<!-- Section 2: Contribution Consistency -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MR-ROGUE01&hide_border=true&theme=tokyonight" width="420"/>
-</p>
-
-<!-- Section 3: Language Focus -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&hide_border=true&theme=tokyonight" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 
