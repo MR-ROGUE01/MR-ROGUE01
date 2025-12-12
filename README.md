@@ -1,55 +1,82 @@
-<h1 align="center">Hi 👋, I'm Raj Kumar Gupta</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Programmer | Learning DSA & ML</h3>
+<h1 align="center">✨ Raj Kumar Gupta ✨</h1>
+<h3 align="center">B.Tech CSE (AI & ML) Student • Aspiring ML Engineer • Code Explorer</h3>
 
 <p align="center">
-🌱 I’m currently practicing <b>C, C++, Python</b>  
-💻 Learning <b>Data Structures, Algorithms & Machine Learning</b>  
-🚀 Building my foundation as a future AI/ML Engineer  
+I love breaking things so I can understand how they work.<br>
+Currently learning the fundamentals that build great developers — logic, algorithms, and clean code.
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m a passionate learner exploring the fundamentals of programming and computer science.  
-I enjoy solving logical problems, breaking code until it works, and learning new technologies one step at a time.  
-Right now I'm refining my basics — C, Python, Git, GitHub — and building strong foundations for future ML projects.
+## 🚀 Who Am I?
+
+I'm a first-year CSE (AI & ML) student building my foundation strong —  
+not rushing into fancy frameworks, but mastering the basics that matter.
+
+- 🌱 Currently practicing **C, C++, Python**
+- 🧠 Learning **DSA, Algorithms & Problem Solving**
+- 💻 Exploring **Git, GitHub, Linux**, and the developer ecosystem
+- 🔥 Believer in **consistency over perfection**
+- 🎯 Dreaming of becoming a skilled ML Engineer step by step
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Tech Stack
 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
-</p>
-
----
-
-## 📫 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-kumar-gupta-a705aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="https://www.instagram.com/just.raj6198?igsh=MWlna2lpZ3V3MmJlbA==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,bootstrap" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats  
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-kumar-gupta-a705aa325" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://www.instagram.com/just.raj6198" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ROGUE01&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🛠️ What I’m Working On  
-- Improving my C, C++ and Python basics  
-- Pushing daily practice code to GitHub  
-- Learning Git & GitHub properly  
-- Starting small beginner-friendly projects  
+## 🛠️ Currently Building
+
+- A solid foundation in **C & C++ programming**
+- Small but meaningful projects to boost logic
+- Consistent GitHub activity & documentation habit
+- A personal portfolio (coming soon)
 
 ---
 
-## 🎯 Fun Fact  
-I learn faster when I break my code first 😄
+## ⚡ Philosophy I Follow
+
+> “Skills are built one correct line of code at a time.”
+
+I don’t try to look advanced.  
+I try to learn honestly.
+
+---
+
+## 🎉 Fun Fact  
+
+I don’t fear bugs —  
+I fear the silence when code runs on the first try 😄
 
 ---
 
