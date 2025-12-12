@@ -35,21 +35,18 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-> (This block matches the exact style of your screenshot — total contributions, streak, language usage)
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&theme=blueberry&show_icons=true&count_private=true" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=transparent&hide_border=true" width="400"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ROGUE01&theme=blueberry" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=MR-ROGUE01&theme=transparent&hide_border=true" width="400"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=blueberry" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=transparent&hide_border=true" width="400"/>
+
+</div>
+
 
 
 <br/>
