@@ -35,17 +35,18 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ GitHub Analytics (Cyberpunk Style)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=transparent&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=radical&hide_border=false" width="420"/>
 
-<img src="https://streak-stats.demolab.com?user=MR-ROGUE01&theme=transparent&hide_border=true" width="400"/>
+<img src="https://streak-stats.demolab.com?user=MR-ROGUE01&theme=radical&hide_border=false" width="420"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=transparent&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=radical&hide_border=false" width="420"/>
 
 </div>
+
 
 
 
