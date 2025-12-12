@@ -26,8 +26,8 @@ Right now I'm refining my basics — C, Python, Git, GitHub — and building str
 
 ## 📫 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="https://www.instagram.com/YOUR-INSTA" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+<a href="https://www.linkedin.com/in/raj-kumar-gupta-a705aa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.instagram.com/just.raj6198?igsh=MWlna2lpZ3V3MmJlbA==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </p>
 
 ---
