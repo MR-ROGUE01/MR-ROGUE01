@@ -35,20 +35,20 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- Total GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&include_all_commits=true&theme=tokyonight" height="160" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=MR-ROGUE01&theme=tokyonight" height="160" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight" height="160" />
-</p>
+<!-- Total GitHub stats (contributions, commits, stars, etc.) -->
+<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
+
+<!-- Streak / contributions ring -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ROGUE01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300"/>
+
+<!-- Top languages (language bar) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="420"/>
+
+</div>
 ---
 
 ## 🛠 What I’m Working On  
