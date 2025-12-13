@@ -29,9 +29,8 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 - *Instagram:* https://www.instagram.com/just.raj6198  
 
 ---
-
-## ⚡ A Line That Defines Me  
-> *"I don’t learn fast. I learn deeply — and that’s my advantage."*
+## ⚡ A Line That Defines Me
+> *"I don’t chase speed. I build depth — and that compounds over time."*
 
 ---
 
@@ -45,12 +44,6 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 🛠 Currently Building
-
-* Strong fundamentals in **C++ (OOP concepts completed)**
-* Hands-on experience with **C programming** for core logic understanding
-* Transitioning focus to **Python** as primary language
-* Preparing to start **Machine Learning** with a solid Python base
 
 ---
 
@@ -62,7 +55,8 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 🎯 Fun Fact  
-I learn faster when I break my code first 😄  
+## 🎯 Fun Fact
+I usually understand a concept only after breaking my code a few times 😄  
+  
 
 ---
