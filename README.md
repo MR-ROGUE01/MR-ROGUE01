@@ -50,7 +50,6 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 * Strong fundamentals in **C++ (OOP concepts completed)**
 * Hands-on experience with **C programming** for core logic understanding
 * Transitioning focus to **Python** as primary language
-* Completed **NPTEL – Joy of Computing using Python** (77%)
 * Preparing to start **Machine Learning** with a solid Python base
 
 ---
