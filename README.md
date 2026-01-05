@@ -34,10 +34,11 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight)
+
 
 
 
