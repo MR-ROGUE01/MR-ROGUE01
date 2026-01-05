@@ -34,8 +34,9 @@ Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, a
 
 ---
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?...)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?...)
+## 📊 GitHub Activity 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight) 
 
 
 
