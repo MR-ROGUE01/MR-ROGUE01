@@ -9,10 +9,12 @@
 
 ---
 
-## 🚀 About Me  
-I’m a passionate learner exploring programming and computer science from the ground up.  
-I enjoy solving logical problems, debugging until things make sense, and building small projects to sharpen my skills.  
-Right now, I’m focusing on strengthening my fundamentals — C, Python, Git, and GitHub.
+## 📊 GitHub Activity
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight)
+
 
 ---
 
