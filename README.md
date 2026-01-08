@@ -26,15 +26,18 @@ Right now, I’m strengthening my **core foundations** — C, C++, Python, Git, 
 
 ---
 
-## ⚡ GitHub Analytics 
+## ⚡ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
+
 
 
 
