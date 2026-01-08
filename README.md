@@ -4,57 +4,68 @@
 <p align="center">
 🌱 Practicing <b>C, C++, Python</b><br>
 💻 Learning <b>Data Structures, Algorithms & Machine Learning</b><br>
-🚀 Building my foundation as a future AI/ML Engineer
+🚀 Building strong fundamentals for a future in AI/ML
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m a passionate learner exploring programming and computer science from the ground up.  
-I enjoy solving logical problems, debugging until things make sense, and building small projects to sharpen my skills.
+I’m a focused learner building my programming and computer science skills from the ground up.  
+I enjoy debugging, breaking code until it makes sense, and improving step by step.
 
-Right now, I’m focused on strengthening my **fundamentals** — C, Python, Git, and GitHub.
+Right now, I’m strengthening my **core foundations** — C, C++, Python, Git, and GitHub — before moving fast.
 
 ---
 
 ## 🧰 Languages and Tools
 
-<p align="left"> 
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Activity  
+## ⚡ GitHub Analytics (Cyberpunk Style)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ROGUE01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-ROGUE01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ROGUE01&theme=tokyonight" />
+</p>
 
 ---
 
-## 🛠 What I’m Working On  
+## 🛠 What I’m Working On
 
-- Improving C, C++ and Python fundamentals  
-- Pushing daily practice code to GitHub  
-- Learning Git & GitHub workflows  
-- Starting small beginner-friendly projects  
+- Strengthening C, C++ and Python fundamentals  
+- Practicing Data Structures and Algorithms  
+- Learning Git & GitHub workflows properly  
+- Pushing **daily practice code** consistently  
 
 ---
 
-## ⚡ A Line That Defines Me  
+## 🎯 Philosophy
 
 > *"I don’t chase speed. I build depth — and that compounds over time."*
 
 ---
 
-## 🔗 Connect  
+## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/raj-kumar-gupta-a705aa325  
 - **Instagram:** https://www.instagram.com/just.raj6198  
 
 ---
 
-## 🎯 Fun Fact  
+## 🎯 Fun Fact
 
 I usually understand a concept only after breaking my code a few times 😄
