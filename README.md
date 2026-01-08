@@ -26,20 +26,21 @@ Right now, I’m strengthening my **core foundations** — C, C++, Python, Git, 
 
 ---
 
-## ⚡ GitHub Analytics
+## ⚡ GitHub Analytics (Cyberpunk Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ROGUE01&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight" />
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-ROGUE01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ROGUE01&theme=tokyonight" />
+</p>
 
 ---
 
