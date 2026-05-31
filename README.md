@@ -27,15 +27,53 @@ I build end-to-end ML pipelines and data workflows using Python, scikit-learn, p
 
 ## 🛠 Languages & Tools
 
+**Languages**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,tensorflow,c,cpp,sql,git,github,vscode,jupyter,tableau" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**ML / AI:** scikit-learn · NumPy · pandas · 1D CNN · Signal Processing · Feature Engineering · LOPO Cross-Validation · ColumnTransformer · Data Leakage Prevention · Pickle
+**ML / AI & Data Science**
 
-**Data Viz:** matplotlib · seaborn · Tableau · YData Profiling
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/1D%20CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-**Core CS:** DSA · OOP · DBMS · Operating Systems
+**Data Visualization**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Developer Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Core CS**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-e38c00?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-555555?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ---
 
