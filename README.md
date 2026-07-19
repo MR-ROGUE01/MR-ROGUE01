@@ -17,8 +17,6 @@ B.Tech CSE (AI & ML) • Amity University Jharkhand • Batch 2028
 
 🎓 B.Tech CSE (AI & ML) undergraduate at **Amity University Jharkhand**
 
-📊 **CGPA:** 7.97 / 10
-
 I enjoy building **end-to-end AI systems**, from raw data preprocessing to deploying intelligent applications.
 
 My interests include:
