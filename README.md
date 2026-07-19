@@ -1,159 +1,275 @@
-<h1 align="center">Hey, I'm Raj (MR-ROGUE01) 👋</h1>
-<h3 align="center">B.Tech CSE (AI & ML) · Amity University Jharkhand · Batch 2028</h3>
+<h1 align="center">Hi 👋, I'm Raj Kumar Gupta (MR-ROGUE01)</h1>
+
+<h3 align="center">
+AI Engineer | Machine Learning | Deep Learning | LLMs <br>
+B.Tech CSE (AI & ML) • Amity University Jharkhand • Batch 2028
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-4DAACC?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=MR-ROGUE01&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+
+<img src="https://img.shields.io/github/followers/MR-ROGUE01?label=Followers&style=social"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-B.Tech CSE (AI & ML) undergraduate at Amity University Jharkhand **(CGPA: 7.97 / 10)**.
+🎓 B.Tech CSE (AI & ML) undergraduate at **Amity University Jharkhand**
 
-I build end-to-end ML pipelines and data workflows using Python, scikit-learn, pandas, and NumPy — from raw data cleaning and feature engineering to pipeline serialization and EDA.
+📊 **CGPA:** 7.97 / 10
 
-- 🔬 Built a **Sleep Breathing Irregularity Detection** system using 1D CNN + LOPO cross-validation on real physiological signals
-- 🚢 Built a fully **leakage-free Titanic survival prediction pipeline** deployed via Pickle
-- 📊 Documenting my **100 Days of ML** — one concept, one notebook, daily
-- 🎯 Open to **AI/ML and Data Science research internships**
+I enjoy building **end-to-end AI systems**, from raw data preprocessing to deploying intelligent applications.
+
+My interests include:
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Large Language Models (LLMs)
+- 🏥 AI for Healthcare
+- 📈 Data Science
+- ⚡ MLOps & AI Deployment
+
+Currently exploring:
+
+- Fine-tuning LLMs using **QLoRA**
+- Hugging Face Transformers
+- PEFT
+- FastAPI
+- Production-ready AI systems
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Languages
 
-**Languages**
+<p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**ML / AI & Data Science**
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/1D%20CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-**Data Visualization**
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-**Developer Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Core CS**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-e38c00?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-555555?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🤖 AI / Machine Learning
 
-### 🫁 Sleep Breathing Irregularity Detection
-> Python · scikit-learn · NumPy · SciPy · 1D CNN
+<p>
 
-Butterworth bandpass filter (0.17–0.4 Hz) on 8-hr overnight recordings from 5 participants → ~8,800 labeled 30-sec windows → 2-layer 1D CNN for 3-class classification (Normal / Hypopnea / Obstructive Apnea). LOPO cross-validation with per-fold StandardScaler and class-weight balancing. Evaluated via macro-F1, precision, recall, confusion matrix.
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-[View Repo →](https://github.com/MR-ROGUE01/sleep-breathing-irregularity-detection)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### 🚢 End-to-End Titanic Survival Pipeline
-> Python · scikit-learn · pandas · Pickle
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-5-stage leakage-free `sklearn.Pipeline`: ColumnTransformer imputation → OneHotEncoder → MinMaxScaler → SelectKBest(chi², k=5) → DecisionTreeClassifier. Single `.fit()` / `.predict()` call. **63.9% mean CV accuracy (5-fold)**. Serialized via Pickle for one-line inference deployment.
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-[View Repo →](https://github.com/MR-ROGUE01/end-to-end-titanic-survival-pipeline)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
----
-
-### 🎬 Netflix Dataset: Data Cleaning & EDA
-> Python · pandas · NumPy · matplotlib
-
-Cleaned 6,234-record dataset: resolved 3,036 nulls across 5 columns, parsed mixed duration strings to `int64`, cast dates to `datetime64`. Aggregated country-level production, visualized 10-category rating distribution and longest movies per year (2008–2020).
-
-[View Repo →](https://github.com/MR-ROGUE01/Netflix-Data-Cleaning-EDA)
+</p>
 
 ---
 
-### 📦 ML Data Preprocessing Series (30+ notebooks)
-> Encoding · Scaling · Imputation · Feature Engineering
+# 🤖 LLM & Generative AI
 
-MinMaxScaler on Wine Dataset · One-Hot Encoding on Used Car Sales (8,128 rows, 32 brands) · Ordinal & Label Encoding · Random Sample Imputation · Missing Indicator · KBinsDiscretizer · FunctionTransformer · ColumnTransformer — all transformers fit on train split only to prevent leakage.
+<p>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PEFT-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LoRA-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QLoRA-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## ⚡ GitHub Analytics
+# 📊 Data Visualization
+
+<p>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
+# ⚙️ Developer Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 💻 Backend & Deployment
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pickle-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🫁 Sleep Breathing Irregularity Detection
+
+- 1D CNN for 3-class classification
+- Butterworth filtering
+- LOPO Cross Validation
+- Class-balanced training
+- TensorFlow
+
+🔗 https://github.com/MR-ROGUE01/sleep-breathing-irregularity-detection
+
+---
+
+## 🧠 Mental Health AI Companion *(In Progress)*
+
+- Meta-Llama-3.2-1B-Instruct
+- QLoRA Fine-Tuning
+- Hugging Face Transformers
+- PEFT
+- FastAPI Backend
+- React Frontend
+
+---
+
+## 🚢 End-to-End Titanic Survival Pipeline
+
+- Complete sklearn Pipeline
+- Leakage-Free Training
+- ColumnTransformer
+- Feature Selection
+- Pickle Deployment
+
+🔗 https://github.com/MR-ROGUE01/end-to-end-titanic-survival-pipeline
+
+---
+
+## 📊 Netflix Data Cleaning & EDA
+
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- Data Visualization
+
+🔗 https://github.com/MR-ROGUE01/Netflix-Data-Cleaning-EDA
+
+---
+
+# 📚 Currently Learning
+
+- ✅ Advanced Machine Learning
+- ✅ Deep Learning
+- ✅ LLM Fine-Tuning
+- ✅ QLoRA
+- ✅ Hugging Face Transformers
+- ✅ Prompt Engineering
+- ✅ FastAPI
+- 🔄 Retrieval-Augmented Generation (RAG)
+- 🔄 Vector Databases
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ROGUE01&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-ROGUE01&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-ROGUE01&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MR-ROGUE01&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ROGUE01&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-ROGUE01&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-ROGUE01&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-ROGUE01&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔧 What I'm Building Right Now
+# 🎯 2026 Goals
 
-- Completing **100 Days of ML** — one preprocessing / modeling concept per day with clean, public notebooks
-- Deepening sklearn pipelines — adding GridSearchCV, RandomForest, and XGBoost wrappers
-- Practicing **DSA in Python** — linked lists, trees, recursion, sorting
-- Exploring advanced feature engineering — target encoding, feature interactions, PCA
-
----
-
-## 🎯 Philosophy
-
-> *"I don't chase speed. I build depth — and that compounds over time."*
+- 🚀 Publish 100 Days of ML
+- 🤖 Fine-tune Llama 3.2 for Mental Health AI
+- 🏥 Build AI-powered Healthcare Applications
+- 📚 Contribute to Open Source
+- 💼 Secure an AI/ML Internship
 
 ---
 
-## 🔗 Connect With Me
+# 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/raj-kumar-gupta-a705aa325
-- **Portfolio:** http://raj-neon-matrix.vercel.app/
-- **Email:** rajkrgupta8757299494@gmail.com
+💼 LinkedIn
+
+https://www.linkedin.com/in/raj-kumar-gupta-a705aa325
+
+🌐 Portfolio
+
+http://raj-neon-matrix.vercel.app/
+
+📧 Email
+
+rajkrgupta8757299494@gmail.com
 
 ---
 
-```
-// I usually understand a concept only after breaking my code a few times 😄
+# 💡 Quote
+
+> **"Build systems that solve real problems—not just models that score well."**
+
+---
+
+```python
+while learning:
+    build()
+    fail()
+    improve()
+    repeat()
 ```
