@@ -16,7 +16,7 @@
 <p align="center"><i>"I don't chase speed. I build depth — and that compounds over time."</i></p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+  <em>"The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one." — Mario Fusco</em>
 </p>
 
 ---
