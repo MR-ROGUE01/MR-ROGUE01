@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+code+you+write+makes+you+a+programmer.;The+code+you+delete+makes+you+a+good+one.;The+code+you+don%27t+have+to+write+makes+you+a+great+one.&font=Fira+Code&center=true&width=750&height=40&duration=3000&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ML+concepts+into+shipped%2C+working+pipelines;96.4%25+accuracy+on+my+latest+build+(no+shortcuts);Currently+leveling+up+in+PyTorch+%26+LLMs;Open+to+AI%2FML+%26+Data+Science+internships&font=Fira+Code&center=true&width=750&height=40&duration=3000&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
