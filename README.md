@@ -16,7 +16,7 @@
 <p align="center"><i>"I don't chase speed. I build depth — and that compounds over time."</i></p>
 
 <p align="center">
-  <img src="quote-card.png" alt="The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. — Mario Fusco" width="600" />
+  <img src="quote-card.png" alt="lines=Turning+ML+concepts+into+shipped%2C+working+pipelines;96.4%25+accuracy+on+my+latest+build+(no+shortcuts);Currently+leveling+up+in+PyTorch+%26+LLMs;Open+to+AI%2FML+%26+Data+Science+internships" width="600" />
 </p>
 
 ---
