@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Raj 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hey,%20I'm%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%C2%B7%20Amity%20University%20Jharkhand&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI+%26+ML)+%40+Amity+University+Jharkhand;Turning+ML+concepts+into+shipped%2C+working+pipelines;Currently+leveling+up+in+PyTorch+%26+LLMs;Open+to+AI%2FML+%26+Data+Science+internships&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ML+concepts+into+shipped%2C+working+pipelines;96.4%25+accuracy+on+my+latest+build+(no+shortcuts);Currently+leveling+up+in+PyTorch+%26+LLMs;Open+to+AI%2FML+%26+Data+Science+internships&font=Fira+Code&center=true&width=650&height=40&duration=3000&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +14,10 @@
 </p>
 
 <p align="center"><i>"I don't chase speed. I build depth — and that compounds over time."</i></p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
 
 ---
 
@@ -48,27 +54,76 @@ I'm an AI/ML undergraduate who learns by shipping. Every concept I pick up — a
 #### 🫁 [Sleep-Disordered Breathing Detection](https://github.com/MR-ROGUE01/sleep-disordered-breathing-detection)
 `Python` `scikit-learn` `XGBoost` `Optuna` `pandas`
 
-End-to-end ML pipeline classifying sleep-breathing events — **Normal, Hypopnea, Obstructive Apnea** — from 6,000 physiological sleep windows across 18 features (SpO₂, nasal airflow, thoracic movement, respiration rate, heart rate, snoring intensity, and more).
+End-to-end ML pipeline classifying sleep-breathing events — **Normal, Hypopnea, Obstructive Apnea** — from 6,000 physiological sleep windows across 18 features (SpO₂, nasal airflow, thoracic movement, respiration rate, heart rate, snoring intensity, sleep stage, body position).
 
-- Benchmarked **10 classifiers** — Logistic Regression, KNN, SVM, Random Forest, XGBoost, and others
-- Tuned a Random Forest inside a single `sklearn.Pipeline` via **Optuna** hyperparameter optimization
-- **96.4% accuracy · 96.0% weighted F1** on held-out test data
-- Serialized via Pickle for single-call inference deployment
+```
+Raw Dataset → EDA → Cleaning → Preprocessing → Model Training
+     → Optuna Hyperparameter Tuning → Best RF Pipeline → Inference
+```
+
+- Benchmarked **10 classifiers** — Dummy, Logistic Regression (+SMOTE), KNN, Decision Tree, Random Forest, SVM, AdaBoost, Gradient Boosting, XGBoost
+- Tuned a Random Forest inside a single `sklearn.Pipeline` (one-hot encoding + scaling + model) via **Optuna**
+- **96.4% accuracy · 96.3% precision · 96.4% recall · 96.0% weighted F1** on held-out test data
+- Serialized via Pickle (`pipeline` + `label_encoder`) for single-call inference deployment
+
+<details>
+<summary>💻 Example inference</summary>
+
+```python
+import pandas as pd, joblib
+
+pipeline = joblib.load("models/sleep_apnea_pipeline.pkl")
+encoder  = joblib.load("models/label_encoder.pkl")
+
+patient = pd.DataFrame({
+    "age": [35], "gender": ["Male"], "bmi": [27.5],
+    "sleep_stage": ["N2"], "body_position": ["Supine"],
+    "avg_spo2": [97.2], "min_spo2": [95.5],
+    "avg_respiration_rate": [16.2], "heart_rate": [72],
+    # ...remaining physiological features
+})
+
+print(encoder.inverse_transform(pipeline.predict(patient)))
+```
+
+</details>
 
 #### 🌾 [AgriYield: Crop Yield Prediction Platform](https://github.com/MR-ROGUE01/agriyield-webapp)
 `Python` `scikit-learn` `Next.js` `React` `JavaScript`
 
-Full-stack crop yield prediction system — evaluated Linear Regression, Ridge, Lasso, Decision Tree, and Random Forest models via feature engineering and one-hot encoding, reaching a **Test R² of 0.88**. The trained Linear Regression pipeline was then **ported to pure JavaScript** and deployed browser-side on Vercel — real-time predictions with zero backend. Supports 4 languages and dark/light theming.
+Full-stack crop yield prediction system — evaluated Linear Regression, Ridge, Lasso, Decision Tree, and Random Forest models via feature engineering and one-hot encoding, reaching a **Test R² of 0.88**.
+
+- Trained Linear Regression pipeline **ported to pure JavaScript** — no Python backend at inference time
+- Deployed serverless on Vercel for real-time, browser-side predictions
+- Supports **4 languages** and dark/light theming
+- Companion repo: [`crop-yield-prediction`](https://github.com/MR-ROGUE01/crop-yield-prediction) — the underlying model/notebook work
 
 #### 🚢 [End-to-End Titanic Survival Pipeline](https://github.com/MR-ROGUE01/end-to-end-titanic-survival-pipeline)
 `Python` `scikit-learn` `pandas` `NumPy`
 
-A fully reproducible 5-stage `sklearn.Pipeline` on 891 records: `ColumnTransformer` imputation → `OneHotEncoder` → `MinMaxScaler` → `SelectKBest(chi², k=5)` → `DecisionTreeClassifier` — chained into a single `.fit()` / `.predict()` call with **zero data leakage**. Serialized via Pickle for one-line inference.
+A fully reproducible 5-stage `sklearn.Pipeline` on 891 records:
+
+```
+ColumnTransformer (imputation) → OneHotEncoder → MinMaxScaler
+     → SelectKBest(chi², k=5) → DecisionTreeClassifier
+```
+
+Chained into a single `.fit()` / `.predict()` call with **zero data leakage** — **63.9% mean 5-fold CV accuracy** — serialized via Pickle for one-line inference.
 
 #### 📦 ML Fundamentals, Built From Scratch
 `Python` `NumPy` `pandas`
 
-An ongoing series implementing core algorithms from first principles rather than just importing them — gradient descent, ridge/lasso regression, PCA, k-means, bagging/boosting/voting ensembles, and XGBoost — each in its own focused, documented repo.
+An ongoing series implementing core algorithms from first principles rather than just importing them:
+
+| Category | Repos |
+|---|---|
+| Regression | Simple/Multiple Linear, Ridge, Lasso, Gradient Descent — all from scratch |
+| Unsupervised | PCA from scratch, K-Means clustering from scratch |
+| Ensembles | Bagging, Voting, Random Forest, AdaBoost, Gradient Boosting, XGBoost — from scratch and with tuning |
+| Classical ML | Decision Trees, SVM (Iris), KNN (Glass Type), Perceptron vs. Logistic Regression |
+
+#### 🔎 Also on GitHub
+`bitcoin-price-prediction` · `CardioGuard-AI` · `Netflix-Data-Cleaning-EDA` — built and public, but I haven't sent you their write-ups yet. Send the zip for any of these and I'll fold real metrics in instead of guessing.
 
 ---
 
@@ -104,7 +159,7 @@ Rather than a project list that goes stale, here's where everything lives — th
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ Live GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR-ROGUE01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -123,6 +178,13 @@ Rather than a project list that goes stale, here's where everything lives — th
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-ROGUE01&theme=tokyo-night&hide_border=true" />
 </p>
 
+<!--START_SECTION:waka-->
+<!-- Optional: this repo (MR-ROGUE01/MR-ROGUE01) needs the snake.yml workflow below added once for the animation to appear -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MR-ROGUE01/MR-ROGUE01/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
+</p>
+<!--END_SECTION:waka-->
+
 ---
 
 ### 📍 Right Now
@@ -140,3 +202,7 @@ Rather than a project list that goes stale, here's where everything lives — th
 ```
 // I usually understand a concept only after breaking my code a few times 😄
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
+</p>
